@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shai Feldfogel"
 title_separator          : "-"
 name                     : &name "Shai Feldfogel"
 description              : &description "personal description"
