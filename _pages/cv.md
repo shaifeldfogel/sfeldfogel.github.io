@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Technion
+* B.Sc. (cum laude) in Civil Engineering - Structures, Technion - Israel Institute of Technology, 2013
+* M.Sc. Technion - Israel Institute of Technology, Haifa, Israel, 2016
+* Ph.D. Technion - Israel Institute of Technology, Haifa, Israel, 2019
 
 Work experience
 ======
